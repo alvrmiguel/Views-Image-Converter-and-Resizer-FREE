@@ -23,3 +23,10 @@ Unlock the full potential of your images with Views Image Converter and Resizer 
 Get your copy today and revolutionize your image editing experience with Views Image Converter and Resizer FREE!
 
 Views Image Converter and Resizer FREE may require elevated permissions to install and run.
+
+![Banner](https://github.com/alvrmiguel/Views-Image-Converter-and-Resizer-FREE/blob/main/Banner1080p.png)
+
+<div>
+  <img alt="Screenshot 1" src="https://github.com/alvrmiguel/Views-Image-Converter-and-Resizer-FREE/blob/main/viewsimage1.png" style="margin-right: 20px" />
+  <img alt="Screenshot 2" src="https://github.com/alvrmiguel/Views-Image-Converter-and-Resizer-FREE/blob/main/viewsimage2.png" />
+</div>
