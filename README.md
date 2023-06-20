@@ -24,6 +24,8 @@ Get your copy today and revolutionize your image editing experience with Views I
 
 Views Image Converter and Resizer FREE may require elevated permissions to install and run.
 
+[![CNET Download](https://github.com/alvrmiguel/Views-Image-Converter-and-Resizer-FREE/blob/main/CNETdownload2.png)](https://download.cnet.com/Views-Image-Converter-and-Resizer-FREE/3000-2192_4-78705978.html)
+
 ![Banner](https://github.com/alvrmiguel/Views-Image-Converter-and-Resizer-FREE/blob/main/Banner1080p.png)
 
 <div>
